@@ -11,6 +11,7 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
 * We first defined some important terms like proof, proposition, axiom and more.
 * I learned that a proposition is a statement either true or false. 
 * We also learned about the logical connectives:
+
 | Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
 | :-----: |:-------:|:-----:| :-------: | :-------: |
 | ¬ |Negation | not | val(¬p) = 1 - val(p) | ¬p |
@@ -19,6 +20,7 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
 | ⊕ | Exclusive disjunction | xor | if val(p)  not equal val(q) = 1 , otherwise  0|  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) |
 | → | Conditional | if, then | if val(p)  ≤ val(q) = 1 , otherwise  0  | p → q ≡  ¬p v q |
 | ↔ | Biconditional | iff | if val(p) equals val(q) = 1 , otherwise  0 |  p ↔ q ≡ (p → q) ∧ (q → p) |
+
 * Each operator requires a truth table to see if it's valid. I really like making truth tables since the moment I learned how to make one.
 
 #Week 2:
