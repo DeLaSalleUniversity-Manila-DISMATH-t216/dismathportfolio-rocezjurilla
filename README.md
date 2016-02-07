@@ -45,11 +45,11 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
   - Existential quantifier - it is true if and only if p(x) is true for at least one value of x in the domain.
 
 #Week 4:
-*In the 4th week of this course, we practiced more examples of rules of inference. 
-*I learned that the rules of inference can only guarantee the conclusion is true if only the premises are true.
+* In the 4th week of this course, we practiced more examples of rules of inference. 
+* I learned that the rules of inference can only guarantee the conclusion is true if only the premises are true.
 
 #Week 5:
-*I learned about direct proving:
+* I learned about direct proving:
   - First, assume that p is true.
   - Show q is also true.
 * Proof by contradiction:
