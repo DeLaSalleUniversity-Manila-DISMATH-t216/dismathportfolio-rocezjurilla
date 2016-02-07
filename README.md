@@ -7,6 +7,8 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
 * My first impression of this class is fun because our professor is very interactive to his students. 
 * The introduction of Sir Melvin made me more excited since the problems he gave are very tricky but interesting.
 * We discussed some basic topics about logic and so far, I caught up.
+
+#Week 2:
 * This week, we already started discussing the formal lecture since we're done with the introductions.
 * We first defined some important terms like proof, proposition, axiom and more.
 * I learned that a proposition is a statement either true or false. 
@@ -23,7 +25,7 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
 
 * Each operator requires a truth table to see if it's valid. I really like making truth tables since the moment I learned how to make one.
 
-#Week 2:
+#Week 3:
 * This week, we have already started discussing logical equivalences.
 * I somewhat remembered the laws that we had during our engalg and engtrig courses.
 * Proving was not easy since you really need to be familiar with the laws like Identity, Domination, Negation, Double Negation, Idempotent, Commutative, Associative, Distributive, De Morgan's and Absorption. 
@@ -38,7 +40,20 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
   - Simplification
   - Conjunction
   - Resolution
-* We also tackled the Universal and Existential Qualifier.
+* We also tackled the Universal and Existential Quantifier. 
+  - Universal quantifier - many mathematical statements assert that a property is true for all values of a variable in a particular domain.
+  - Existential quantifier - it is true if and only if p(x) is true for at least one value of x in the domain.
 
-#Week 3:
+#Week 4:
+*In the 4th week of this course, we practiced more examples of rules of inference. 
+*I learned that the rules of inference can only guarantee the conclusion is true if only the premises are true.
 
+#Week 5:
+*I learned about direct proving:
+  - First, assume that p is true.
+  - Show q is also true.
+* Proof by contradiction:
+  - Assume that the premise is not true.
+  - Show that the first step will end up in a contradiction.
+* We proved some examples about rational and irrational numbers, which enlightened me about the definition of a rational number.
+* This week we just kept on solving examples about even and odd numbers, and in that way we learned theorems about it. 
