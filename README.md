@@ -192,3 +192,21 @@ dismathportfolio-rocezjurilla created by Classroom for GitHub
            n = n+1
 
 
+#Week 11
+* There were no classes this week
+
+#Week 12
+* Today, we discussed about something new, which is really different from the previous topics. We learned about graphs, and it's not the graph we knew in Algebra.
+* I find this topic really interesting and easy because the concepts are simple.
+* This week, our Graph Theory consists of Euler Circuits and Path & Hamilton Circuits and Path.
+* Also, we were able to learn how to determine if a graph is planar or not.
+* The simple concept I realized is, (in Euler path and circuit) it's a path if all the EDGES were passed by exactly once; and it's a circuit if it's a path and it goes back to the starting point. 
+* All circuits are path, but all paths are not circuits.
+* Also, in Hamilton path and circuit, it's a path if all the NODES were passed by exactly once; and it's a circuit if it's a path and it goes back to the starting node. 
+
+#Week 13
+* We discussed about Graph Coloring and Trees
+* A coloring of a simple graph is the assignment of a color to each vertex of the graph so that no two adjacent vertices are assigned the same color.
+* The chromatic number of a graph is the least number of colors needed for a coloring of this graph.
+* Four Color theorem: The chromatic number of planar graph is no greater than four. 
+* A tree is a connected undirected graph with no simple circuits.
